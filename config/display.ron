@@ -1,0 +1,4 @@
+(
+  title: "game-rust",
+  dimensions: Some((500, 500)),
+)
